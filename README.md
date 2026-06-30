@@ -11,7 +11,7 @@ Repository del progetto di Machine Learning su Microsoft Fabric — Morlotti And
 **Descrizione:** _[Gianluca: inserisci qui una breve descrizione del dataset — cosa contiene, quante righe/colonne, qual è la variabile target, perché è stato scelto]_
 
 **File correlati:**
-- `Presentazione_Classificazione_CereaMorlotti.pptx`
+- `Presentazione_Classificazione_CereaMorlotti.pdf`
 - `Report_Classificazione_CereaMorlotti.pdf`
 
 ---
@@ -23,7 +23,7 @@ Repository del progetto di Machine Learning su Microsoft Fabric — Morlotti And
 **Descrizione:** Dataset pubblico basato su dati dell'Organizzazione Mondiale della Sanità (OMS). Contiene 2938 osservazioni relative a 193 paesi nel periodo 2000–2015, con indicatori sanitari, economici e demografici (mortalità, HIV/AIDS, GDP, istruzione, ecc.). La variabile target è `life_expectancy` (aspettativa di vita alla nascita, in anni).
 
 **File correlati:**
-- `Presentazione_Regressione_CereaMorlotti.pptx`
+- `Presentazione_Regressione_CereaMorlotti.pdf`
 - `Report_Regressione_CereaMorlotti.pdf`
 
 ---
